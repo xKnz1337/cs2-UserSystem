@@ -1,0 +1,9 @@
+{
+  "PlayerNotFound": "{prefix}{red}Jucatorul specificat nu a fost gasit sau nu este online.",
+  "UseridInvalid": "{prefix}{red}UserID-ul specificat este invalid sau nu exista.",
+  "SteamidInvalid": "{prefix}{red}SteamID-ul specificat este invalid sau nu exista in baza de date.",
+  "DataUserId": "{prefix}Pentru {gold}{0}{default} ai datele: {green}UserID: {gold}{1} {default}| {green}SteamID: {gold}{2} {default}| {green}IP: {gold}{3}",
+  "DataSteamId": "{prefix}Pentru UserID {gold}{0}{default} ai datele: {green}Nume: {gold}{1} {default}| {green}SteamID: {gold}{2} {default}| {green}IP: {gold}{3}",
+  "DataOffId": "{prefix}Pentru SteamID {gold}{0}{default} ai datele: {green}Nume: {gold}{1} {default}| {green}UserID: {gold}{2} {default}| {green}IP: {gold}{3}",
+  "NoPermission": "{prefix}{red}Nu ai permisiunea de a folosi aceasta comanda."
+}
